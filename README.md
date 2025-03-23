@@ -1,1 +1,1 @@
-# -Leetcode_Question_GraphQL
+# Leetcode_Question_GraphQL
